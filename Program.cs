@@ -4,7 +4,13 @@
     {
         static void Main (string[] args)
         {
-            
+            //Entrada de dados para maior número
+            Console.WriteLine ("Digite os números que serão analisados: ");
+            string N1 = Console.ReadLine();
+            string N2 = Console.ReadLine();
+            string N3 = Console.ReadLine();
+            string N4 = Console.ReadLine();
+
         }
     }
 }
