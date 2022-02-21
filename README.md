@@ -1,2 +1,2 @@
 # Montreal-Capacitacao
- Resolução dos exercícios propostos 
+ Resolução dos exercícios propostros 
