@@ -12,7 +12,7 @@
             string N4 = Console.ReadLine();
             //Convertendo para números
             public int n1 = int.Parse(N1);
-            public  int n2 = int.Parse(N2);
+            public int n2 = int.Parse(N2);
             public int n3 = int.Parse(N3);
             public int n4 = int.Parse(N4);
 
