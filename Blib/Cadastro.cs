@@ -1,10 +1,15 @@
-namespace AtivSem01.Blib
+namespace AtivSem01
 {
     abstract class Cadastro : IOperacoesBD
     {
-        void inserir (string nome)
+        public void inserir (string nome)
         {
             trow new NotImplementException ();
+        }
+
+        protected void Conexao()
+        {
+
         }
     }
 
