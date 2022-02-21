@@ -5,3 +5,4 @@ C:\Users\Leticia Alves\Documents\Montreal\Capacitação\Desafios\obj\Debug\net6.
 C:\Users\Leticia Alves\Documents\Montreal\Capacitação\Desafios\obj\Debug\net6.0\Desafios.csproj.CoreCompileInputs.cache
 C:\Users\Leticia Alves\Documents\Montreal\Capacitação\Desafios\obj\Debug\net6.0\Desafios.dll
 C:\Users\Leticia Alves\Documents\Montreal\Capacitação\Desafios\obj\Debug\net6.0\Desafios.pdb
+C:\Users\Leticia Alves\Documents\Montreal\Capacitação\Desafios\obj\Debug\net6.0\refint\Desafios.dll
