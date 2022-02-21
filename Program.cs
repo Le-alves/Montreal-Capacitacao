@@ -16,7 +16,9 @@
             public int n3 = int.Parse(N3);
             public int n4 = int.Parse(N4);
 
-            MaiorNumero(n1,n2,n3,n4);
+            MaiorNumero(n1,n2,n3,n4)
+            Console.WriteLine ( MaiorNumero);
+
 
         }
     }
