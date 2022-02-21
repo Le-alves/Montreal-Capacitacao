@@ -34,7 +34,7 @@ namespace AtivSem01
                 armzenamento2 = armzenamentoMaior;
             }            
 
-            return armzenamentoMaior() ;
+            return armzenamentoMaior;
         }
     }
 }
