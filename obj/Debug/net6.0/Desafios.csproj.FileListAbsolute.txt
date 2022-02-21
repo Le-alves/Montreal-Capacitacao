@@ -6,3 +6,10 @@ C:\Users\Leticia Alves\Documents\Montreal\Capacitação\Desafios\obj\Debug\net6.
 C:\Users\Leticia Alves\Documents\Montreal\Capacitação\Desafios\obj\Debug\net6.0\Desafios.dll
 C:\Users\Leticia Alves\Documents\Montreal\Capacitação\Desafios\obj\Debug\net6.0\Desafios.pdb
 C:\Users\Leticia Alves\Documents\Montreal\Capacitação\Desafios\obj\Debug\net6.0\refint\Desafios.dll
+C:\Users\Leticia Alves\Documents\Montreal\Capacitação\Desafios\bin\Debug\net6.0\Desafios.exe
+C:\Users\Leticia Alves\Documents\Montreal\Capacitação\Desafios\bin\Debug\net6.0\Desafios.deps.json
+C:\Users\Leticia Alves\Documents\Montreal\Capacitação\Desafios\bin\Debug\net6.0\Desafios.runtimeconfig.json
+C:\Users\Leticia Alves\Documents\Montreal\Capacitação\Desafios\bin\Debug\net6.0\Desafios.dll
+C:\Users\Leticia Alves\Documents\Montreal\Capacitação\Desafios\bin\Debug\net6.0\Desafios.pdb
+C:\Users\Leticia Alves\Documents\Montreal\Capacitação\Desafios\obj\Debug\net6.0\Desafios.genruntimeconfig.cache
+C:\Users\Leticia Alves\Documents\Montreal\Capacitação\Desafios\obj\Debug\net6.0\ref\Desafios.dll
